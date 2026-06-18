@@ -1,4 +1,6 @@
-<h1 align="center">Hi There! 👋</h1>
+<h1 align="center">Hi There!
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="wave" />
+</h1>
 <h3 align="center">I'm an aspiring AI/ML Developer</h3>
 
 - 🔭 I’m currently working on **Agentic AI**
